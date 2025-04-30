@@ -2,3 +2,8 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 hide_project_page: true
 github.is_user_page: false
 hide_project_footer: true
+navigation:
+  - name: Readme
+    link: ./index.html
+  - name: אני מאמין באלוהים
+    link: ./hbrw.html
