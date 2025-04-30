@@ -1,1 +1,4 @@
+---
+layout: default
+---
 # credo.ml
