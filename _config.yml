@@ -2,7 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 hide_project_page: true
 github.is_user_page: false
 hide_project_footer: true
-title: scheuerer
+title: 
 description: 
 navigation:
   - name: Readme
